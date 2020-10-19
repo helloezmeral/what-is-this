@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "myfont";
+    src: url("https://raw.githubusercontent.com/hpe-design/type/master/HPE%20Metric/HPE%20Metric%20-%20Web/MetricHPE-Web-Regular.woff") format('woff');
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("https://raw.githubusercontent.com/hpe-design/type/master/HPE%20Metric/HPE%20Metric%20-%20Web/MetricHPE-Web-Bold.woff") format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("https://raw.githubusercontent.com/hpe-design/type/master/HPE%20Metric/HPE%20Metric%20-%20Web/MetricHPE-Web-BlackItalic.woff") format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+.hpeFont {
+    font-family: myfont
+}
