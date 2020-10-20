@@ -84,6 +84,8 @@ function gotResult(error, results) {
   classifyVideo();
 }
 
+
+//========================Self-define function=============================================
 function myFunction() {
   if (label == "EL300") {
     window.location.href = "https://buy.hpe.com/hk/en/servers/edgeline-systems/edgeline-systems/edgeline-converged-edge-systems/hpe-edgeline-el300-converged-edge-system/p/1011127891";
