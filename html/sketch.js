@@ -96,8 +96,10 @@ function myFunction() {
   } else if (label == "GL20") {
     //
     window.location.href = "https://buy.hpe.com/hk/en/servers/edgeline-systems/edgeline-systems/edgeline-intelligent-gateways/hpe-gl20-iot-gateway/p/1008670391";
-  } else {
-
+  } else if (label == "GL10"){
+    window.location.href = "https://buy.hpe.com/us/en/servers/edgeline-systems/edgeline-systems/edgeline-intelligent-gateways/hpe-gl10-iot-gateway/p/1008670386";
   }
+  
+  else {}
 
 }
